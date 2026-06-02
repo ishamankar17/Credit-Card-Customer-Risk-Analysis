@@ -185,7 +185,3 @@ Aspiring Data Analyst skilled in SQL, Power BI, Excel, Python, and Data Visualiz
 
 GitHub: https://github.com/ishamankar17
 
----
-
-
-This version looks professional enough for internship applications, fresher Data Analyst roles, and LinkedIn portfolio sharing.
