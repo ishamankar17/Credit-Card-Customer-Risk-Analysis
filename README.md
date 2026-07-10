@@ -22,8 +22,7 @@ The goal is to help stakeholders understand customer segments, revenue drivers, 
 ### 1️ Overview
 
 High-level summary of total customers, transaction amount, transaction volume, and annual fees, along with card category distribution and quarterly transaction trends.
-
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/75fc8cb5-6774-48be-88c8-d3c298c480c0" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/96d37d44-81cf-48bf-a5c9-105b99f9b097" />
 
 **Key Insights**
 - Blue card customers account for the majority of customers and revenue
