@@ -23,8 +23,7 @@ The goal is to help stakeholders understand customer segments, revenue drivers, 
 
 High-level summary of total customers, transaction amount, transaction volume, and annual fees, along with card category distribution and quarterly transaction trends.
 
-<img src="<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/75fc8cb5-6774-48be-88c8-d3c298c480c0" />
-" width="800" height="450" alt="Overview dashboard">
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/75fc8cb5-6774-48be-88c8-d3c298c480c0" />
 
 **Key Insights**
 - Blue card customers account for the majority of customers and revenue
@@ -37,9 +36,7 @@ High-level summary of total customers, transaction amount, transaction volume, a
 
 Analyzes customer behavior through average credit limit, credit utilization ratio, activation rate, acquisition cost, and revolving balance.
 
-<img src="<img width="1332" height="755" alt="image" src="https://github.com/user-attachments/assets/3a84fc60-4739-452b-b29a-eea8aaea5b71" />
-E" width="800" height="450" alt="Customer segmentation dashboard">
-
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/3a84fc60-4739-452b-b29a-eea8aaea5b71" />
 **Key Insights**
 - Blue card holders have the highest utilization rate
 - Silver and Gold cards have higher average credit limits
@@ -52,7 +49,7 @@ E" width="800" height="450" alt="Customer segmentation dashboard">
 Focuses on interest revenue by card category, acquisition cost analysis, non-activated customers, and credit utilization buckets.
 
 <img src="![Uploading image.png…]()
-" width="800" height="450" alt="Revenue and risk insights dashboard">
+" width="800" height="400" alt="Revenue and risk insights dashboard">
 
 **Key Insights**
 - Blue card customers generate the highest interest income
