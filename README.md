@@ -21,7 +21,8 @@ The goal is to help stakeholders understand customer segments, revenue drivers, 
 
 ### 1️ Overview
 
-High-level summary of total customers, transaction amount, transaction volume, and annual fees, along with card category distribution and quarterly transaction trends.
+Summary of total customers, transaction amount, transaction volume, and annual fees, along with card category distribution and quarterly transaction trends.
+
 <img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/96d37d44-81cf-48bf-a5c9-105b99f9b097" />
 
 **Key Insights**
